@@ -1,0 +1,25 @@
+/**/
+body{ 
+  white-space: nowrap;
+  width:100%;
+  text-align:center;
+  margin-right: auto;
+  margin-left : auto;
+  font-size:85%;
+}
+
+.resizeimage img { width: 55%; }
+
+.InputBox {
+  color:#0000ff;
+  font-size:14pt;
+  font-weight:bold;
+  vertical-align: middle;
+  margin: auto;
+}
+
+.line-break {
+  word-wrap: break-word;
+  white-space: normal;
+  display: block;
+}
