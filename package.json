@@ -27,7 +27,7 @@
         "framework7": "^3.0.0",
         "framework7-icons": "^0.9.1",
         "material-design-icons": "^3.0.1",
-        "browser-sync": "^2.26.7",
+        "browser-sync": "^2.27.10",
         "cordova": "^9.0.0"
     }
 }
